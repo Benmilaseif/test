@@ -25,7 +25,7 @@ if prompt:
     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\DELL\\Desktop\\Chatbot\\End-To-End-Gemini-Project-main\\inf.json"
 
     # Load PDF file
-    pdf_path = r"Banque_FR.pdf"
+    pdf_path = r"bot.pdf"
 
     # Load and process the PDF file
     def process_pdf(file_path):
